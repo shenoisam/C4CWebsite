@@ -1,8 +1,16 @@
 nav {
   display: inline-block;
-
 }
-body{
-  background-color: #FFFF99;
 
+.ProjectDesc{
+    width: 40%;
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+    
+}
+
+.ProjectPic{
+    
+    
 }

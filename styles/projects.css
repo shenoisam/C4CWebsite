@@ -1,12 +1,22 @@
 .ProjectDesc{
     width: 40%;
     text-align: center;
-    padding-left: 3%;
-    padding-right: 3%;
+    padding-left: 2%;
+    padding-right: 6%;
+    height: 31vh;
+    overflow: hidden;
     
 }
 
-.ProjectPic{
+img{
     
-    
+}
+
+.Projects tr td {
+    margin: 2px;
+}
+
+.Projects table:hover tr:not(:hover) {
+    opacity: 0.1;
+    position:relative;
 }

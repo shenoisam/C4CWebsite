@@ -8,3 +8,6 @@
   color: #FFFF66;
 
 }
+body{
+  overflow-y:hidden;
+}

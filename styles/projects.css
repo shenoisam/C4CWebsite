@@ -2,19 +2,37 @@
     width: 40%;
     text-align: center;
     padding-left: 2%;
-    padding-right: 6%;
+    padding-right: 5%;
     height: 31vh;
     overflow: hidden;
-    
+
 }
+
 
 img{
-    
+    background-color: #fecb00;
+    height: 31vh;
+    width: inherit;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 
-.Projects tr td {
-    margin: 2px;
+
+#one{
+    height: 20vh;
 }
+
+
+#two{
+    height: 31vh;
+}
+
+
+#three{
+    height: 31vh;
+}
+
 
 .Projects table:hover tr:not(:hover) {
     opacity: 0.1;

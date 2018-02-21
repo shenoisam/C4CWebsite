@@ -7,7 +7,12 @@
     overflow: hidden;
 
 }
-
+h5{
+  color: #FFFF66;
+}
+p{
+  color: white;
+}
 
 img{
     background-color: #fecb00;
